@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **Morgan Stanley in Risk Technology Department**
 
-- 🌱 I’m currently learning **Python Bootcamp and Machine Learning Algorithms**
+- 🌱 I’m currently taking a **Python Bootcamp from Udemy**
 
 - 📫 How to reach me **itsshinimehta@gmail.com**
 
